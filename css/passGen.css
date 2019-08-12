@@ -1,0 +1,58 @@
+body{
+    background: url("../images/img.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+}
+.container{
+  width: 600px;
+  margin: 0 auto;
+  margin-top: 250px;
+  font-size: 3em;
+  font-family: 'Gugi', cursive;
+}
+
+.btn{
+    font-size: 0.8em;
+    margin: 0 auto;
+}
+.inpdesign{
+    font-size: 0.9em;
+    background-color: darkorange;
+    border: 5px solid white;
+    color: white;
+}
+.out{
+    margin-bottom: 10px;
+    width: 570px;
+    background-color: darkorange;
+    border: 5px solid white;
+    color: white;
+    font-size: 1em;
+    text-align: center;
+}
+.myBtn{
+    padding: 10px 10px;
+    font-size: 40px;
+    margin-bottom: 0 auto;
+}
+.btn-info{
+    background-color: darkorange;
+    border: 5px solid white;
+}
+.btn-info:hover{
+    background-color: darkorange;
+    border: 5px solid white;
+}
+.btn-info:default{
+    background-color: darkorange;
+    border: 5px solid white;
+}
+.btn-success{
+    border: 5px solid white;
+}
+.btn-success:hover{
+    border: 5px solid white;
+}
+#stylingright{
+    background:seagreen url(../images/gpicon.png) right no-repeat;
+}
